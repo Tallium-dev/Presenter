@@ -1,5 +1,5 @@
 {
-    "name": "yaro/presenter",
+    "name": "tallium-dev/presenter",
     "description": "Eloquent models or arrays presenter for Laravel 5",
     "keywords": ["laravel", "model", "presenter", "eloquent"],
     "require": {
